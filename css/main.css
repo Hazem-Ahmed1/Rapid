@@ -367,7 +367,9 @@ nav ul{
     color: #1bb1dc !important;
 }
 .coloumn-1 img{
-    margin: 10px 5px;
+    width: 100%;
+    height: 100%;
+    padding: 10px 0px;
 }
 .gutter{
     margin: 10px 0px;
